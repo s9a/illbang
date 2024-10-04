@@ -2,17 +2,19 @@
 <html lang="en" class="tape-flow tape-blaq" data-varam="tape-watt tape-play tape-loud tape-luvu tape-blaq tape-bluv">
 <meta charset="utf-8">
 
-<title>illbang color remixer</title>
+<title>illbang ¡! remixer</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#0e0e0e">
 <meta name="color-scheme" content="dark light">
-<meta name="description" content="illbang svg color remixer">
+<meta name="description" content="color fill svg">
 
 <link rel="stylesheet" href="freestyle.css">
 <link rel="prev" href="https://github.com/s9a/interweb">
 <link rel="prev" href="https://ryanve.dev/illbang">
 <link rel="icon" href="illbang.svg">
+<link rel="license" href="LICENSE.md">
+<link rel="home" href="https://s9a.page">
 
 <figure>
   <svg
@@ -55,12 +57,34 @@
         <code>watt</code>
         <input type="color" name="tape-watt" value="#e0e0e0">
       </label>
-      <button class="tape-blaq">
-        remix
+      <button class="tape-blaq" aria-label="remix">
+        <svg
+          class="tape-blaq"
+          width="20vmax"
+          height="20vmax"
+          viewBox="0 0 2400 2400"
+          xmlns="http://www.w3.org/2000/svg"
+          >
+          <title>¡!</title>
+          <rect class="tape-luvu" x="617" y="800" width="300" height="1300" />
+          <rect class="tape-play" x="617" y="300" width="300" height="300" />
+          <rect class="tape-loud" x="1483" y="300" width="300" height="1300" />
+          <rect class="tape-bluv" x="1483" y="1800" width="300" height="300" />
+        </svg>
       </button>
       <footer>
-        <a href="?" class="tape-blaq">reset</a>
-        <a href="https://s9a.page/tape" class="tape-blaq">tape</a>
+        <a href="?" class="tape-play" aria-label="reset"><kbd>♻️</kbd></a>
+        <a href="https://s9a.page/tape" class="tape-bluv" aria-label="tape">
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 800 500">
+            <title>tape</title>
+            <rect class="tape-bluv" x="0" width="800" height="500" />
+            <circle class="tape-play" cx="220" cy="250" r="360" />
+            <circle class="tape-watt" cx="220" cy="250" r="120" />
+            <circle class="tape-loud" cx="220" cy="250" r="60" />
+            <circle class="tape-bluv" cx="580" cy="250" r="120" />
+            <circle class="tape-luvu" cx="580" cy="250" r="60" />
+          </svg>
+        </a>
       </footer>
     </form>
   </figcaption>
