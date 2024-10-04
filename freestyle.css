@@ -218,6 +218,15 @@ button:hover {
   text-decoration-style: double;
 }
 
+div {
+  align-items: center;
+  contain: layout;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  min-height: 100vh;
+}
+
 figure {
   align-items: center;
   contain: layout;
