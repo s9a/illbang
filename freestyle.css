@@ -87,14 +87,14 @@
 
 .cone {
   --tape-remix: conic-gradient(
-    var(--tape-play) 0,
-    var(--tape-play) 25%,
-    var(--tape-loud) 25%,
-    var(--tape-loud) 50%,
+    var(--tape-loud) 0,
+    var(--tape-loud) 30%,
+    var(--tape-bluv) 30%,
+    var(--tape-bluv) 50%,
     var(--tape-luvu) 50%,
-    var(--tape-luvu) 75%,
-    var(--tape-bluv) 75%,
-    var(--tape-bluv) 100%
+    var(--tape-luvu) 80%,
+    var(--tape-play) 80%,
+    var(--tape-play) 100%
   );
 }
 
@@ -170,12 +170,32 @@ footer {
   margin: 0 auto 1em;
   contain: layout;
   display: flex;
+  align-content: center;
+}
+
+a svg {
+  min-width: 3.618rem;
+  max-width: 100%;
+  height: auto;
+}
+
+kbd {
+  filter: hue-rotate(0deg);
+  font-size: 1.618em;
+  padding-inline: 0.5ch;
+}
+
+a {
+  padding: 1ch;
+}
+
+[href="?"] {
+  cursor: grab;
 }
 
 a,
 button {
   border: thick dashed;
-  padding: 1ch;
   border-top-color: var(--tape-play);
   border-right-color: var(--tape-loud);
   border-bottom-color: var(--tape-bluv);
@@ -190,7 +210,6 @@ button {
 }
 
 button:hover {
-  cursor: url(#illbang);
   cursor: zoom-in;
   text-decoration-style: double;
 }
@@ -215,10 +234,6 @@ figcaption {
 }
 
 @media (orientation: portrait) {
-  button { 
-    flex-basis: 100%;
-  }
-
   code {
     align-items: center;
     writing-mode: vertical-rl;
