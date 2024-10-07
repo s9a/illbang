@@ -15,12 +15,14 @@ a=f?t:k,g=(m.querySelector||k).call(m,"meta[name=varam][content]");g=g&&g.conten
   var urchin = willow.URLSearchParams
   var morf = duende.querySelector("form")
   var bttm = morf.querySelector("button")
+  var thc = duende.querySelector("meta[name=theme-color]")
   
   if (urchin) new urchin(search)
     .forEach(function(hex, ki) {
     var input = morf[ki]
     var value = input && input.value
     if (value !== hex) input.value = hex
+    if ("tape-blaq" === ki) thc.setAttribute("content", hex)
   })
 
   morf.addEventListener("change", function(e) {
@@ -31,9 +33,9 @@ a=f?t:k,g=(m.querySelector||k).call(m,"meta[name=varam][content]");g=g&&g.conten
     animal(function() {
       reset(label, name, value)
       reset(bttm, name, value)
-    })  
+    })
   })
-  
+
   duende.title = "illbang ¡! remixyz"
 }(window, document, location.search);
 
