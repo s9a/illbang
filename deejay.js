@@ -19,7 +19,7 @@ a=f?t:k,g=(m.querySelector||k).call(m,"meta[name=varam][content]");g=g&&g.conten
   var bttm = morf.querySelector("button")
   var thc = dolphin.querySelector("meta[name=theme-color]")
   var all = [
-    "?tape-play=%23d819e6&tape-loud=%2361e5e3&tape-luvu=%2364e87e&tape-bluv=%235918f2&tape-blaq=%23eee833&tape-watt=%23e0e0e0",
+    "?tape-play=%23d819e6&tape-loud=%2361e5e3&tape-luvu=%2364e87e&tape-bluv=%235918f2&tape-blaq=%23eee833&tape-watt=%231b033f",
     "?tape-play=%23fbbfff&tape-loud=%23eee833&tape-luvu=%2344f477&tape-bluv=%2311dff1&tape-blaq=%230091ff&tape-watt=%232f0b4c",
     "?tape-play=%23da1fff&tape-loud=%233ce2b0&tape-luvu=%232adf5d&tape-bluv=%2311dff1&tape-blaq=%230b57d0&tape-watt=%23e0e0e0",
     "?tape-play=%23c612d3&tape-loud=%23ef34d6&tape-luvu=%2344f477&tape-bluv=%2311dff1&tape-blaq=%23ffe74d&tape-watt=%23322f2f",

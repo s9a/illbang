@@ -19,11 +19,7 @@
   background: var(--tape-watt);
 }
 
-.tape-watt ::selection,
-.tape-play ::selection,
-.tape-loud ::selection,
-.tape-luvu ::selection,
-.tape-bluv ::selection {
+[class*=tape]:not(.tape-blaq) ::selection {
   color: var(--tape-hex);
   background: var(--tape-blaq);
 }
