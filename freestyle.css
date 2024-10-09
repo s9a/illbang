@@ -180,6 +180,7 @@ button {
 }
 
 button {
+  contain: content;
   flex-basis: 61.8%;
   font-size: 1.618em;
   margin: 1em auto;
