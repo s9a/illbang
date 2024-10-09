@@ -24,8 +24,8 @@ a=f?t:k,g=(m.querySelector||k).call(m,"meta[name=varam][content]");g=g&&g.conten
     "?tape-play=%23da1fff&tape-loud=%233ce2b0&tape-luvu=%232adf5d&tape-bluv=%2311dff1&tape-blaq=%230b57d0&tape-watt=%23e0e0e0",
     "?tape-play=%23c612d3&tape-loud=%23ef34d6&tape-luvu=%2344f477&tape-bluv=%2311dff1&tape-blaq=%23ffe74d&tape-watt=%23322f2f",
     "?tape-play=%23fbbfff&tape-loud=%23eee833&tape-luvu=%2344f477&tape-bluv=%2311dff1&tape-blaq=%23523df0&tape-watt=%23e0e0e0",
-    "?tape-play=%23e4ec74&tape-loud=%23ef34c6&tape-luvu=%236143f4&tape-bluv=%2304b8c8&tape-blaq=%23fbbfff&tape-watt=%23e0e0e0",
     "?tape-play=%23e4ec74&tape-loud=%234dffd2&tape-luvu=%23e208d0&tape-bluv=%2304b8c8&tape-blaq=%23560bb1&tape-watt=%23e0e0e0",
+    "?tape-play=%23e4ec74&tape-loud=%23ef34c6&tape-luvu=%236143f4&tape-bluv=%2304b8c8&tape-blaq=%23fbbfff&tape-watt=%23322f2f",
     "?tape-play=%23ec6051&tape-loud=%23eee833&tape-luvu=%2311d80e&tape-bluv=%2318eef2&tape-blaq=%236c19a4&tape-watt=%23bbaaee",
     "?tape-play=%2351ec63&tape-loud=%23eee833&tape-luvu=%2300e1ff&tape-bluv=%23f218c2&tape-blaq=%2339083f&tape-watt=%23bbaaee",
     "?tape-play=%23fbbfff&tape-loud=%23eee833&tape-luvu=%2344f477&tape-bluv=%2311dff1&tape-blaq=%233719a4&tape-watt=%23bbaaee"
