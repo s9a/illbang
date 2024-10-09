@@ -156,8 +156,14 @@ a kbd {
   padding-inline: 1ch;
 }
 
-[href="?"] {
+[href="?!"] {
   cursor: grab;
+}
+
+[class*=tape] {
+  --tape-fx: color, background-color, fill, filter;
+  transition: 500ms;
+  transition-property: var(--tape-fx);
 }
 
 a,
