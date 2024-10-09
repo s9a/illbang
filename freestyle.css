@@ -54,6 +54,14 @@ dfn {
   font: unset;
 }
 
+:root {
+  --tilt: 0deg;
+}
+
+.tilt {
+  transform: rotate(var(--tilt));
+}
+
 html {
   font-family: sans-serif;
   font-size: max(20pt, 2vmax);
