@@ -226,3 +226,7 @@ figcaption {
     writing-mode: vertical-rl;
   }
 }
+
+[hidden] {
+  display: none;
+}
