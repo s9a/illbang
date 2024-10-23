@@ -28,7 +28,13 @@ a=f?t:k,g=(m.querySelector||k).call(m,"meta[name=varam][content]");g=g&&g.conten
     "?tape-play=%23e4ec74&tape-loud=%23ef34c6&tape-luvu=%236143f4&tape-bluv=%2304b8c8&tape-blaq=%23fbbfff&tape-watt=%23322f2f",
     "?tape-play=%23ec6051&tape-loud=%23eee833&tape-luvu=%2311d80e&tape-bluv=%2318eef2&tape-blaq=%236c19a4&tape-watt=%23bbaaee",
     "?tape-play=%2351ec63&tape-loud=%23eee833&tape-luvu=%2300e1ff&tape-bluv=%23f218c2&tape-blaq=%2339083f&tape-watt=%23bbaaee",
-    "?tape-play=%23fbbfff&tape-loud=%23eee833&tape-luvu=%2344f477&tape-bluv=%2311dff1&tape-blaq=%233719a4&tape-watt=%23bbaaee"
+    "?tape-play=%23fbbfff&tape-loud=%23eee833&tape-luvu=%2344f477&tape-bluv=%2311dff1&tape-blaq=%233719a4&tape-watt=%23bbaaee",
+    "?tape-play=%23fa3296&tape-loud=%23f8e93f&tape-luvu=%2341f6bd&tape-bluv=%238e38ff&tape-blaq=%23e0e0e0&tape-watt=%231c0313",
+    "?tape-play=%23fa3296&tape-loud=%23f8e93f&tape-luvu=%2340d9f7&tape-bluv=%238e38ff&tape-blaq=%23e0e0e0&tape-watt=%231c0313",
+    "?tape-play=%23fa3296&tape-loud=%23f8e93f&tape-luvu=%23ff7452&tape-bluv=%238e38ff&tape-blaq=%234bf0fb&tape-watt=%231c0313",
+    "?tape-play=%23fa3296&tape-loud=%23f8e93f&tape-luvu=%23eb52ff&tape-bluv=%238e38ff&tape-blaq=%2338fcff&tape-watt=%231c0313",
+    "?tape-play=%23ff5938&tape-loud=%23eee833&tape-luvu=%2338dbff&tape-bluv=%236f00ff&tape-blaq=%23d252ff&tape-watt=%231c0313",
+    "?tape-play=%23fbbfff&tape-loud=%23eeee77&tape-luvu=%23bae4ea&tape-bluv=%238a2be2&tape-blaq=%2300bfff&tape-watt=%230e0e0e" // AiR
   ]
   
   if (surprise) random()
