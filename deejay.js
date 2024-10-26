@@ -34,6 +34,13 @@ a=f?t:k,g=(m.querySelector||k).call(m,"meta[name=varam][content]");g=g&&g.conten
     "?tape-play=%23fa3296&tape-loud=%23f8e93f&tape-luvu=%23ff7452&tape-bluv=%238e38ff&tape-blaq=%234bf0fb&tape-watt=%231c0313",
     "?tape-play=%23fa3296&tape-loud=%23f8e93f&tape-luvu=%23eb52ff&tape-bluv=%238e38ff&tape-blaq=%2338fcff&tape-watt=%231c0313",
     "?tape-play=%23ff5938&tape-loud=%23eee833&tape-luvu=%2338dbff&tape-bluv=%236f00ff&tape-blaq=%23d252ff&tape-watt=%231c0313",
+    "?tape-play=%23ff52f6&tape-loud=%239d52ff&tape-luvu=%233d5dff&tape-bluv=%23ffef3d&tape-blaq=%23bbeeee&tape-watt=%230e0e0e",
+    "?tape-play=%23ff52f6&tape-loud=%239d52ff&tape-luvu=%233d5dff&tape-bluv=%23ff8b33&tape-blaq=%23bbeeee&tape-watt=%23071079",
+    "?tape-bluv=%233d5dff&tape-loud=%23ff52c5&tape-luvu=%23673dff&tape-play=%23ff52f6&tape-blaq=%23bbeeee&tape-watt=%230e0e0e",
+    "?tape-play=%23d952ff&tape-loud=%235252ff&tape-luvu=%23ff52c5&tape-bluv=%238b52ff&tape-blaq=%23bbeeee&tape-watt=%230e0e0e",
+    "?tape-play=%23ff52ff&tape-loud=%238b52ff&tape-luvu=%23ff52c5&tape-bluv=%23c552ff&tape-blaq=%23bbeeee&tape-watt=%230e0e0e",
+    "?tape-play=%23ff52f6&tape-loud=%233d5dff&tape-luvu=%23d952ff&tape-bluv=%239d52ff&tape-blaq=%23bbeeee&tape-watt=%230e0e0e",
+    "?tape-play=%23ff52ff&tape-loud=%236f52ff&tape-luvu=%23ff52c5&tape-bluv=%23ff8b52&tape-blaq=%23bbeeee&tape-watt=%230e0e0e",
     "?tape-play=%23fbbfff&tape-loud=%23eeee77&tape-luvu=%23bae4ea&tape-bluv=%238a2be2&tape-blaq=%2300bfff&tape-watt=%230e0e0e" // AiR
   ]
   
