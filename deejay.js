@@ -41,6 +41,9 @@ a=f?t:k,g=(m.querySelector||k).call(m,"meta[name=varam][content]");g=g&&g.conten
     "?tape-play=%23ff52ff&tape-loud=%238b52ff&tape-luvu=%23ff52c5&tape-bluv=%23c552ff&tape-blaq=%23bbeeee&tape-watt=%230e0e0e",
     "?tape-play=%23ff52f6&tape-loud=%233d5dff&tape-luvu=%23d952ff&tape-bluv=%239d52ff&tape-blaq=%23bbeeee&tape-watt=%230e0e0e",
     "?tape-play=%23ff52ff&tape-loud=%236f52ff&tape-luvu=%23ff52c5&tape-bluv=%23ff8b52&tape-blaq=%23bbeeee&tape-watt=%230e0e0e",
+    "?tape-play=%23ff913d&tape-loud=%239d52ff&tape-luvu=%233d5dff&tape-bluv=%23ffee33&tape-blaq=%23bbeeee&tape-watt=%23071079",
+    "?tape-play=%233dff3d&tape-loud=%239d52ff&tape-luvu=%233d5dff&tape-bluv=%23ffef3d&tape-blaq=%23bbeeee&tape-watt=%23071079",
+    "?tape-play=%23d952ff&tape-loud=%23ffef3d&tape-luvu=%2300d5ff&tape-bluv=%238e38ff&tape-blaq=%23fbbfff&tape-watt=%231c0313",
     "?tape-play=%23fbbfff&tape-loud=%23eeee77&tape-luvu=%23bae4ea&tape-bluv=%238a2be2&tape-blaq=%2300bfff&tape-watt=%230e0e0e" // AiR
   ]
   
